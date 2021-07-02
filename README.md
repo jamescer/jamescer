@@ -15,6 +15,6 @@ def me():
         {'pronouns': "he" | "him",
          'code': ['Python', 'Javascript', 'Java', 'Typescript', 'HTML', 'CSS'],
          'frameworks': ['React', 'Angular', 'VueJS', 'Java Spring Boot' ],
-         'hobbies': ['Powerlifting/Bodybuilding', 'Video game developer/player', 'Artist']
+         'hobbies': ['Powerlifting/Bodybuilding', 'Video game dev/player', 'Artist']
          }
 ```
