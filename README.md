@@ -1,6 +1,6 @@
 <h2> Hey, I'm James Cerniglia! </h2>
 <img align='right' src="https://oldschool.runescape.wiki/images/8/8c/Strength_cape_emote.gif" width="230">
-<p><em>Software Configuration Specialist II at <a href="https://www.meridianlink.com/">MeridianLink</a>
+<p><em>Software Development Engineer II at <a href="https://www.meridianlink.com/">MeridianLink</a>
 </em></p>
 
 [![GitHub jamescer](https://img.shields.io/github/followers/cerniglj1?label=follow&style=social)](https://github.com/jamescer)
