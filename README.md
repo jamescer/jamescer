@@ -7,12 +7,12 @@
 [![Linkedin: jamescerniglia](https://img.shields.io/badge/-jamescerniglia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamescerniglia/)](https://www.linkedin.com/in/jamescerniglia/)
 [![Twitter: BIG_SQUEEZER](https://img.shields.io/twitter/follow/BIG_SQUEEZER?style=social)](https://twitter.com/BIG_SQUEEZER)
 
+I am extremely passionate to make things that people will use to improve their life.
 
-About me!
 ```python
-def me():
+def who_am_i():
     return \
-        {'pronouns': "he" | "him",
+        {
          'code': ['Python', 'Javascript', 'Java', 'Typescript', 'HTML', 'CSS'],
          'frameworks': ['React', 'Angular', 'VueJS', 'Java Spring Boot' ],
          'hobbies': ['Powerlifting/Bodybuilding', 'Video game dev/player', 'Artist']
