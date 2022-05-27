@@ -14,7 +14,7 @@ def who_am_i():
     return \
         {
          'code': ['Python', 'Javascript', 'Java', 'Typescript', 'HTML', 'CSS'],
-         'frameworks': ['React', 'Angular', 'VueJS', 'Java Spring Boot' ],
+         'frameworks': ['React', 'Angular', 'VueJS', 'Spring' ],
          'hobbies': ['Powerlifting/Bodybuilding', 'Video game dev/player', 'Artist']
          }
 ```
