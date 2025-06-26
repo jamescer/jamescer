@@ -23,7 +23,6 @@
 - 🌎 Based in the US
 
 ```python
-# My Tech Stack
 who_am_i = {
     'languages': ['Python', 'JavaScript', 'Java', 'TypeScript', 'HTML', 'CSS'],
     'frameworks': ['React', 'Angular', 'VueJS', 'Spring'],
@@ -34,6 +33,7 @@ who_am_i = {
 ---
 
 ## 🛠️ Languages & Tools
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -81,4 +81,3 @@ who_am_i = {
 - 🧩 Loves solving puzzles and brain teasers
 
 ---
-
