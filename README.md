@@ -17,12 +17,11 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Passionate about building things that help others
-- 💡 Always learning, always creating
-- 🏋️ Powerlifter, gamer, and artist
-- 🌎 Based in the US
+- I like to make things people are happy to use.
+- Always learning, always creating
+- Powerlifter, gamer, and artist
 
-```python
+```py
 who_am_i = {
     'languages': ['Python', 'JavaScript', 'Java', 'TypeScript', 'HTML', 'CSS'],
     'frameworks': ['React', 'Angular', 'VueJS', 'Spring'],
@@ -47,13 +46,6 @@ who_am_i = {
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
----
-
-## 🚩 Highlights
-
-- 🏆 <b>Recent Project:</b> <a href="#">osrs-tools</a> — an Api for the old school runescape game
-
----
 
 ## 📈 GitHub Stats
 
@@ -62,7 +54,6 @@ who_am_i = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescer&layout=compact&theme=radical" width="48%">
 </p>
 
----
 
 ## 📫 Contact Me
 
@@ -71,13 +62,3 @@ who_am_i = {
   <a href="https://www.linkedin.com/in/jamescerniglia/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/BIG_SQUEEZER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-
----
-
-## 🎲 Fun Facts
-
-- 🥇 Can deadlift more than most people can lift their spirits
-- 🎨 Draws digital art in spare time
-- 🧩 Loves solving puzzles and brain teasers
-
----
