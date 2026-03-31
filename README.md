@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><a href="https://jamescerniglia.dev">Hey, I'm James 👋</a></h1>
+<h1><a href="https://jamescerniglia.com/">Hey, I'm James 👋</a></h1>
 
 <p>
   <img src="https://oldschool.runescape.wiki/images/8/8c/Strength_cape_emote.gif" width="120">
