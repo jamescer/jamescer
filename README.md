@@ -14,12 +14,6 @@
   <a href="https://twitter.com/BIG_SQUEEZER"><img src="https://img.shields.io/twitter/follow/BIG_SQUEEZER?style=social"></a>
 </p>
 
-## 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jamescer&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamescer&layout=compact&theme=radical" width="48%">
-</p>
 
 ## 📫 Contact Me
 
