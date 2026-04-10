@@ -6,7 +6,7 @@
   <img src="https://oldschool.runescape.wiki/images/8/8c/Strength_cape_emote.gif" width="120">
 </p>
 <p>
-  <em>Software Development Engineer II at <a href="https://www.meridianlink.com/">MeridianLink</a></em>
+  <em>Software Development Engineer III at <a href="https://www.meridianlink.com/">MeridianLink</a></em>
 </p>
 <p>
   <a href="https://github.com/jamescer"><img src="https://img.shields.io/github/followers/jamescer?label=GitHub&style=social"></a>
